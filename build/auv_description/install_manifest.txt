@@ -41,6 +41,7 @@
 /home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/meshes/thruster1M_link.STL
 /home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/meshes/thruster1C_link.STL
 /home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/launch/cube_thrust_test_water.launch.py
+/home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/launch/guppy_woolletpool.launch.py
 /home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/launch/cube_thrust_test.launch.py
 /home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/launch/guppy_display.launch.py
 /home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/launch/controlsystemExperimental.launch.py
@@ -49,6 +50,8 @@
 /home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/launch/view_lidar.launch.py
 /home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/worlds/test_world.sdf
 /home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/worlds/nogravity_world.sdf
+/home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/worlds/woolletPoolNoGravity_world.sdf
+/home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/worlds/woolletPool_world.sdf
 /home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/worlds/water_world.sdf
 /home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/environment/library_path.sh
 /home/sangregorioquimpo/auve2_ws/install/auv_description/share/auv_description/environment/library_path.dsv

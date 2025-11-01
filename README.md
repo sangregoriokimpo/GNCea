@@ -99,3 +99,17 @@ To use sliders:
 ros2 run auv_description guppy_control_test.py
 ```
 
+# Woollet Pool world
+
+To launch Woollet pool world:
+
+```
+ros2 launch auv_description guppy_woolletpool.launch.py 
+```
+
+To use sliders:
+
+```
+ros2 run auv_description guppy_control_test.py
+```
+
