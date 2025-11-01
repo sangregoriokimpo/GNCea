@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <sdf version="1.10">
-  <world name="water_world">
+  <world name="nogravity_world">
 
     <!-- Core simulation systems -->
     <plugin filename="gz-sim-physics-system" name="gz::sim::systems::Physics"/>
