@@ -3,6 +3,9 @@ GNCea | Auv Simulator Experimental 2 (Work In Progress)
 
 An AUV simulator developed for Palouse RoboSub based on ROS 2 Jazzy and Gazebo Harmonic, featuring custom C++ plugins for thrust allocation, buoyancy compensation, and hydrodynamic drag modeling. The simulator supports real-time 6-DOF teleoperation, autonomy modules for depth and altitude regulation, and integrated onboard perception through a forward-facing camera and 3D LiDAR sensor for image and point cloud generation, enabling environmental mapping, navigation, and autonomy testing in dynamic underwater environments.
 
+<img width="1028" height="911" alt="image" src="https://github.com/user-attachments/assets/00de4348-a3af-4ce9-9a0a-f30b88ac70f2" />
+
+
 <img width="1028" height="911" alt="image" src="https://github.com/user-attachments/assets/0adf25f2-3b9e-4b20-826e-90a6322660bf" />
 
 
