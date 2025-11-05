@@ -116,3 +116,28 @@ To use sliders:
 ros2 run auv_description guppy_control_test.py
 ```
 
+# TO ACTIVATE IMU/ALTIMETER ON GUPPY
+
+activate IMU bridge:
+
+```
+ros2 run ros_gz_bridge parameter_bridge \
+  /imu@sensor_msgs/msg/Imu@gz.msgs.IMU
+```
+
+activate altimeter bridge:
+
+```
+ros2 run ros_gz_bridge parameter_bridge \
+  /altimeter@ros_gz_interfaces/msg/Altimeter@gz.msgs.Altimeter
+```
+
+bridge both IMU & altimeter at the same time:
+
+```
+ros2 run ros_gz_bridge parameter_bridge \
+  /imu@sensor_msgs/msg/Imu@gz.msgs.IMU \
+  /altimeter@ros_gz_interfaces/msg/Altimeter@gz.msgs.Altimeter
+```
+
+
