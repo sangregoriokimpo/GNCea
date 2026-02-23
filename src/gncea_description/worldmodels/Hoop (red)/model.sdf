@@ -120,7 +120,7 @@
         </geometry>
       </collision>
 
-      <visual name='pole_visual'>
+      <!-- <visual name='pole_visual'>
         <pose>0 0 0.0134295 0.004331 -0.016759 0</pose>
         <geometry>
           <box>
@@ -142,7 +142,7 @@
             <size>0.03 0.01 0.5</size>
           </box>
         </geometry>
-      </collision>
+      </collision> -->
     </link>
 
   </model>
